@@ -32,7 +32,7 @@ I used a NVIDIA A100 Tensor Core GPU through Google Colab, but still reached mem
 ## Installation
 
 ```bash
-  pip install -r requirements.txt
+  conda create --name vit_paper_rep_env --file requirements.txt
 ```
 
     
